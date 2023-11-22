@@ -3,10 +3,15 @@
 ## Education
   - M.S. in Environmental Science | University of Chittagong, Bangladesh (2022)
   - B.Sc. in Environmental Science | University of Chittagong, Bangladesh (2019)
-## Work Experience 
+## Work Experience
+
 ### Research Assistant | University of Chittagong | (2021 - Present)
 
 ### Workshop Trainer | GeoSensify2023 | ESri | Earthen Environment (18-19 November 2023)
+**Basic Land Cover Classification in QGIS Using SCP Tool**
+- Practicaly demonestrate how to download and clip satelite image according to study area.
+- Hands-on exercises on Land cover classification of Sentinel 2 L2A image using Semi-automatic Classification Plugin in QGIS.
+- Preparing manual and excersice to assisst and evaluate participants
 
 ### Workshop Trainer | COMPASS | University of Chittagong | (11-12,14 August 2022)
 **Hydrological Model Creation with Soil and Water Assessment Tool (SWAT)**

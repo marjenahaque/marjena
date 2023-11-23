@@ -1,4 +1,4 @@
-# [Home Page](https://marjenahaque.github.io/marjena-portfolio/test.md)
+# [My Blog](https://marjenahaque.github.io/marjena-portfolio/test.md)
 # Research Assistant
 **Technical Skills: Python, JavaScripts(GEE), QGIS, ArcGIS, SPSS, SNAP**
 ### Education

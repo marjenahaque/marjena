@@ -10,6 +10,7 @@
 Projects under Dr. Shyamal Karmakar 
 - Hydrological modelling of Halda river for storm runoff and base flow prediction towards sustainable water management.
 - Surface runoff and base flow prediction of Meghna River using GeoMIP data.
+
 **Responsibilites:**
 - Observe data and geospatial data collecting
 - Preprossing data to prepare input data

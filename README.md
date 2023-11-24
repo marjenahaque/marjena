@@ -1,5 +1,5 @@
 
-[My Blog](./test.md)
+[My Blog](./My_Blog.md)
 
 # Research Assistant
 **Technical Skills: Python, JavaScripts(GEE), QGIS, ArcGIS, SPSS, SNAP**

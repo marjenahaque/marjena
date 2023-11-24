@@ -12,7 +12,7 @@ directory_path = r'C:\Users\path\to\your\file'
 ```
 **These are my csv files**
 
-![](https://github.com/marjenahaque/marjena-portfolio/images/Common_prefix.png)
+![pic1](https://github.com/marjenahaque/marjena-portfolio/blob/main/images/Common_prefix.png?raw=true)
 
 **Specify the common prefix to be removed**
 ```python
@@ -37,4 +37,4 @@ print("File names have been updated successfully.")
 ```
 **Here is the output**
 
-![](https://github.com/marjenahaque/marjena-portfolio/blob/main/images/without_prefix.png)
+![pic2](https://github.com/marjenahaque/marjena-portfolio/blob/main/images/without_prefix.png?raw=true)

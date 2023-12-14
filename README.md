@@ -1,4 +1,4 @@
-<p align="center"><a href="https://marjenahaque.github.io/marjena-portfolio/"> <img width="80%" alt="Hello, I'm Marjena.!" src=" " /></a></p>
+<p align="center"><a href="https://marjenahaque.github.io/marjena-portfolio/"> <img width="60%" alt="Hello, I'm Marjena.!" src="./images/intro.png" /></a></p>
 
 <br />
 
@@ -9,11 +9,16 @@ I am an ardent environmental scientist with a multidisciplinary focus, particula
 
 **Research Interests**
 
-My research interests revolve around soil hydrology, investigating the interplay between soil properties and water movement to enhance land management strategies. Additionally, I'm deeply invested in studying river system networks, focusing on predictive modeling techniques to forecast runoff patterns and evaluate watershed responses to land-use changes. A key focus area of my research involves employing machine learning methodologies to analyze wave patterns and preemptively control disasters in Bangladesh's coastal regions and islands. My goal is to bridge scientific insights with practical applications to ensure sustainable environmental practices and disaster resilience in these vulnerable ecosystems.
+My research interests revolve around hydrology, investigating the interplay between soil properties and water movement to enhance land management strategies. Additionally, I'm deeply invested in studying river system networks, focusing on predictive modeling techniques to forecast runoff patterns and evaluate watershed responses to land-use changes. A key focus area of my research involves employing machine learning methodologies to analyze wave patterns and preemptively control disasters in Bangladesh's coastal regions and islands. My goal is to bridge scientific insights with practical applications to ensure sustainable environmental practices and disaster resilience in these vulnerable ecosystems.
 
-<a href="marjinahaque64@gmail.com">
-  <img align="center" alt="Marjena | Twitter" width="21px" src="" />
-</a>
-<a href="https://www.researchgate.net/profile/Marjena-Beantha-Haque">
-  <img align="center" alt="Marjnea | CodeSandbox" width="20px" src="" />
-</a>
+<br />
+<br />
+<p align="center">
+  <a href="marjinahaque64@gmail.com">
+    <img width="70px" src="./images/email_icon.jpg"/>
+  </a>
+  
+  <a href="https://www.researchgate.net/profile/Marjena-Beantha-Haque">
+    <img width="40px" src="./images/researchgate_icon.png"/>
+  </a>
+</p>

@@ -1,37 +1,19 @@
+<p align="center"><a href="https://marjenahaque.github.io/marjena-portfolio/"> <img width="80%" alt="Hello, I'm Marjena.!" src=" " /></a></p>
 
-[My Blog](./My_Blog.md)
+<br />
 
-# Research Assistant
-**Technical Skills: Python, JavaScripts(GEE), QGIS, ArcGIS, SPSS, SNAP**
-### Education
-- M.S. in Environmental Science, University of Chittagong, Bangladesh (2022)
-- B.Sc. in Environmental Science, University of Chittagong, Bangladesh (2019)
+**About me**
 
-### Work Experience
+I am an ardent environmental scientist with a multidisciplinary focus, particularly in soil hydrology, river system networks, and leveraging machine learning for disaster management in Bangladesh's coastal lands and islands. My academic background includes a Master's in Environmental Science from the University of Chittagong, equipping me with a strong foundation in GIS, remote sensing, and watershed management. Engaged in diverse projects, my research spans the intricate dynamics of soil-water interactions, understanding river systems' behaviors, and innovating machine learning applications to predict and mitigate disasters in vulnerable coastal areas.
 
-#### Research Assistant | University of Chittagong | (2021 - Present)
-Projects under Dr. Shyamal Karmakar 
-- Hydrological modelling of Halda river for storm runoff and base flow prediction towards sustainable water management.
-- Surface runoff and base flow prediction of Meghna River using GeoMIP data.
 
-**Responsibilites:**
-- Observe data and geospatial data collecting
-- Preprossing data to prepare input data
-- Developing Hydrological modelling of Halda and Meghna River
-- Calibrating and Validating model
-- Output data analysis, interpretation, and visualizing
-- Manuscript writing
+**Research Interests**
 
-#### Workshop Trainer | GeoSensify2023 | ESri | Earthen Environment (18-19 November 2023)
-Basic Land Cover Classification in QGIS Using SCP Tool
-- Practicaly demonestrate how to download and clip satelite image according to study area.
-- Hands-on exercises on Land cover classification of Sentinel 2 L2A image using Semi-automatic Classification Plugin in QGIS.
-- Preparing manual and excersice to assisst and evaluate participants
+My research interests revolve around soil hydrology, investigating the interplay between soil properties and water movement to enhance land management strategies. Additionally, I'm deeply invested in studying river system networks, focusing on predictive modeling techniques to forecast runoff patterns and evaluate watershed responses to land-use changes. A key focus area of my research involves employing machine learning methodologies to analyze wave patterns and preemptively control disasters in Bangladesh's coastal regions and islands. My goal is to bridge scientific insights with practical applications to ensure sustainable environmental practices and disaster resilience in these vulnerable ecosystems.
 
-#### Workshop Trainer | COMPASS | University of Chittagong | (11-12,14 August 2022)
-Hydrological Model Creation with Soil and Water Assessment Tool (SWAT)
-- Designed and delivered comprehensive training sessions on hydrological model creation utilizing the Soil and Water Assessment Tool (SWAT) as part of the COMPASS program.
-- Conducted interactive workshops, hands-on exercises, and practical demonstrations to ensure participants gained a deep understanding of hydrological modeling concepts and the intricacies of SWAT.
-- Emphasized the significance of hydrological modeling in sustainable water resource management, land use planning, and environmental conservation, fostering a broader perspective among students.
-- Enabled students to master the technical aspects of SWAT software, including data input, model calibration, and result interpretation, enhancing their proficiency in applying the tool effectively.
-
+<a href="marjinahaque64@gmail.com">
+  <img align="center" alt="Marjena | Twitter" width="21px" src="" />
+</a>
+<a href="https://www.researchgate.net/profile/Marjena-Beantha-Haque">
+  <img align="center" alt="Marjnea | CodeSandbox" width="20px" src="" />
+</a>

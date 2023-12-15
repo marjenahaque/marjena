@@ -1,6 +1,6 @@
-[Home page](./)&nbsp;&nbsp;&nbsp;[Education](./education.md)&nbsp;&nbsp;&nbsp;[Work](./asset/Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md)
-<br/>
-<br/>
+[Home page](./README.md)&nbsp;&nbsp;&nbsp;[Education](./education.md)&nbsp;&nbsp;&nbsp;[Work](./asset/Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md)
+<br>
+<br>
 **Master of Science in Environmental Science**&nbsp;&nbsp;&nbsp;|&nbsp;2019-2021&nbsp;|&nbsp;CGPA: 3.62(out of 4)  
 <br/>
 Institute of Forestry and Environmental Sciences, University of Chittagong (IFESCU)  

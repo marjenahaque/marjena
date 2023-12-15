@@ -1,4 +1,4 @@
-[Home page](./)&nbsp;&nbsp;&nbsp;[Education](./asset/education.md)&nbsp;&nbsp;&nbsp;[Work](./asset/Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md) 
+[Home page](./README.md)&nbsp;&nbsp;&nbsp;[Education](./asset/education.md)&nbsp;&nbsp;&nbsp;[Work](./asset/Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md) 
 
 ### Welcome to my Blog page
 

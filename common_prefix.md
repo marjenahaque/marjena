@@ -1,4 +1,5 @@
-[Home page](./)       |  [My Blog](./My_Blog.md)
+[Home page](./)&nbsp;&nbsp;&nbsp;[Education](./asset/education.md)&nbsp;&nbsp;&nbsp;[Work](./asset/Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md) 
+
 # How to rename multiple files by removing common prefix of file name
 Suppose you have several files with common prefix in file name. You want to rename all file by keeping only last part of the name. 
 For that we only need `os` library to interact with operating system to list all files in directory.

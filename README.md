@@ -1,4 +1,4 @@
-[Home page](./README.md)&nbsp;&nbsp;&nbsp;[Education](./asset/education.md)&nbsp;&nbsp;&nbsp;[Work](./asset/Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md) 
+[Home page](./README.md)&nbsp;&nbsp;&nbsp;[Education](./education.md)&nbsp;&nbsp;&nbsp;[Work](./Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md) 
 <br>
 <br>
 <p align="center"><a href="https://marjenahaque.github.io/marjena/"> <img width="60%" alt="Hello, I'm Marjena.!" src="./images/intro.png" /></a></p>

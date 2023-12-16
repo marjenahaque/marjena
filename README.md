@@ -15,7 +15,7 @@ My research interests revolve around hydrology, investigating the interplay betw
 <br />
 <br />
 <p align="center">
-  <a href="http://marjinahaque64@gmail.com">
+  <a href="mailto:marjinahaque64@gmail.com">
     <img width="70px" src="./images/email_icon.jpg"/>
   </a>
   

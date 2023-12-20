@@ -1,4 +1,4 @@
-[Home page](./)&nbsp;&nbsp;&nbsp;[Education](./education.md)&nbsp;&nbsp;&nbsp;[Work](./Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md) 
+[Home page](./)&nbsp;&nbsp;&nbsp;[Education](./education.md)&nbsp;&nbsp;&nbsp;[Work](./Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md)&nbsp;&nbsp;&nbsp;[Research](./research.md)
 
 # How to rename multiple files by removing common prefix of file name
 Suppose you have several files with common prefix in file name. You want to rename all file by keeping only last part of the name. 

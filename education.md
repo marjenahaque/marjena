@@ -8,7 +8,7 @@ Institute of Forestry and Environmental Sciences, University of Chittagong (IFES
 **Major Courses:** Environmental Management, Climate Change, Environmental Audit, Community Based Natural Resource Management, Environmental Economics, Disaster Management.
 <br/>
 <br/>
-**Bachelor of Science in Environmental Science**&nbsp;&nbsp;&nbsp;|&nbsp;2014-2019&nbsp;|&nbsp;CGPA: 3.45(out of 4)  
+**Bachelor of Science in Environmental Science**&nbsp;&nbsp;&nbsp;|&nbsp;2014-2018&nbsp;|&nbsp;CGPA: 3.45(out of 4)  
 <br/>
 Institute of Forestry and Environmental Sciences, University of Chittagong (IFESCU).  
 **Project:** Testing Fe0 (zero valent iron) based filtration module for wastewater treatment.  

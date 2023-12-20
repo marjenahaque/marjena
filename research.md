@@ -10,3 +10,16 @@ Poster Paper:
 [Hydrological Modelling of Halda River For Storm Runoff and Base Flow Prediction Towards Sustainable Water Management.](https://dx.doi.org/10.13140/RG.2.2.22918.45122) 1st Jamal Nazrul Islam National Conference - 2022 (JNINC 2022) for Young Researchers, 21 May 2022. University of Chittagong.  
 **Manuscripts under review:**  
 Discharge and sediment load modeling using rating curve-based missing data management for the Halda River Catchment of Bangladesh.
+
+
+<br />
+<br />
+<p align="center">
+  <a href="mailto:marjinahaque64@gmail.com">
+    <img width="70px" src="./images/email_icon.jpg"/>
+  </a>
+  
+  <a href="https://www.researchgate.net/profile/Marjena-Beantha-Haque">
+    <img width="40px" src="./images/researchgate_icon.png"/>
+  </a>
+</p>

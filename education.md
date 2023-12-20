@@ -1,4 +1,4 @@
-[Home page](./README.md)&nbsp;&nbsp;&nbsp;[Education](./education.md)&nbsp;&nbsp;&nbsp;[Work](./Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md)
+[Home page](./README.md)&nbsp;&nbsp;&nbsp;[Education](./education.md)&nbsp;&nbsp;&nbsp;[Work](./Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md)&nbsp;&nbsp;&nbsp;[Research](./research.md)
 <br>
 <br>
 **Master of Science in Environmental Science**&nbsp;&nbsp;&nbsp;|&nbsp;2019-2021&nbsp;|&nbsp;CGPA: 3.62(out of 4)  

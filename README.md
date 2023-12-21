@@ -12,7 +12,7 @@ I like to travel and explore nature, listen podcasts, perticipate in sports and 
 
 **Research Interests**
 
-My research interests revolve around hydrology, investigating the interplay between soil properties and water movement to enhance land management strategies. Additionally, I'm deeply invested in studying river system networks, focusing on predictive modeling techniques to forecast runoff patterns and evaluate watershed responses to land-use changes. A key focus area of my research involves employing machine learning methodologies to analyze wave patterns and preemptively control flash floods in Bangladesh's coastal regions. My goal is to bridge scientific insights with practical applications to ensure sustainable environmental practices and disaster resilience in these vulnerable ecosystems.
+My research interests revolve around hydrology, investigating the interplay between soil properties and water movement to enhance land management strategies. Additionally, I'm deeply invested in studying river system networks, focusing on predictive modeling techniques to forecast runoff patterns and evaluate watershed responses to land-use changes. A key focus area of my research involves employing machine learning methodologies to analyze precipation and river flow patterns and preemptively control flash floods in Bangladesh's coastal regions. My goal is to bridge scientific insights with practical applications to ensure sustainable environmental practices and disaster resilience in these vulnerable ecosystems.
 
 <br />
 <br />

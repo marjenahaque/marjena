@@ -24,4 +24,9 @@ My research interests revolve around hydrology, investigating the interplay betw
   <a href="https://www.researchgate.net/profile/Marjena-Beantha-Haque">
     <img width="40px" src="./images/researchgate_icon.png"/>
   </a>
+  
+  <a href="https://www.youtube.com/channel/UC3ua345wVU5-rPSuGbrjUKg">
+    <img width="40px" src="./images/YouTube.png"/>
+  </a>
+  
 </p>

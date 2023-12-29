@@ -15,11 +15,13 @@ _Here I share my basic technical skill that I occatiobally use for my research. 
 <br />
 <p align="center">
   <a href="mailto:marjinahaque64@gmail.com">
-    <img width="70px" src="./images/email_icon.jpg"/>
+    <img width="55px" src="./images/email_icon.jpg"/>
   </a>
   
   <a href="https://www.researchgate.net/profile/Marjena-Beantha-Haque">
-    <img width="40px" src="./images/researchgate_icon.png"/>
+    <img width="35px" src="./images/researchgate_icon.png"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC3ua345wVU5-rPSuGbrjUKg">
+    <img width="45px" src="./images/YouTube.png"/>
   </a>
 </p>
-

@@ -18,15 +18,15 @@ My research interests revolve around hydrology, investigating the interplay betw
 <br />
 <p align="center">
   <a href="mailto:marjinahaque64@gmail.com">
-    <img width="70px" src="./images/email_icon.jpg"/>
+    <img width="60px" src="./images/email_icon.jpg"/>
   </a>
   
   <a href="https://www.researchgate.net/profile/Marjena-Beantha-Haque">
-    <img width="40px" src="./images/researchgate_icon.png"/>
+    <img width="35px" src="./images/researchgate_icon.png"/>
   </a>
   
   <a href="https://www.youtube.com/channel/UC3ua345wVU5-rPSuGbrjUKg">
-    <img width="40px" src="./images/YouTube.png"/>
+    <img width="50px" src="./images/YouTube.png"/>
   </a>
   
 </p>

@@ -32,7 +32,7 @@ Hydrological Model Creation with Soil and Water Assessment Tool (SWAT)
 - Enabled students to master the technical aspects of SWAT software, including data input, model calibration, and result interpretation, enhancing their proficiency in applying the tool effectively.
 
 #### Intern   |  Department of Environment (DOE)    | Chattogram
-Supervised by Mohammed Moazzam Hossain, Director (technical) and Noor Hossain Sajib, Inspector.
+Supervised by Mohammed Moazzam Hossain, Director (technical) and Noor Hossain Sajib, Inspector.  
 Responsibilities: data collecting in Shitakundo ship breaking field, understanding law enforcement procedures in field operations relating to environmental law and policies, evaluating Environmental Impact Assessment, and database management.
 
 

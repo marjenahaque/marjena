@@ -19,7 +19,7 @@ Assisted in Project works of peers: Runoff rate and pollution load estimation of
 <br/>
 <br/>
 
-**Online courses:** Pandas, Python, Geospatial Analysis, Introduction to Programming, AI and Climate Change.
+**Online courses:** [Pandas](./images/Pandas-kaggle.png), [Python](./images/Python-kaggle.png), Geospatial Analysis, [Introduction to Programming](./images/kaggle-Intro%20to%20Programming.png), [AI and Climate Change](./images/AI%20and%20climate%20change.pdf).
 <br />
 <br />
 <p align="center">

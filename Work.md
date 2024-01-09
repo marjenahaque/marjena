@@ -1,14 +1,14 @@
 [Home page](./README.md)&nbsp;&nbsp;&nbsp;[Education](./education.md)&nbsp;&nbsp;&nbsp;[Work](./Work.md)&nbsp;&nbsp;&nbsp;[My Blog](./My_Blog.md)&nbsp;&nbsp;&nbsp;[Research](./research.md)  
 <br>
 <br>
-**Technical Skills:** _Python, JavaScripts(GEE), Markdown, QGIS, ArcGIS, SPSS, SNAP, HEC-HMS, HEC-RAS, SWAT_
+**Technical Skills:** _Python, JavaScripts(GEE), Markdown, QGIS, ArcGIS, SPSS, SNAP, HEC-HMS, HEC-RAS, SWAT, SWAT-CUP_
 
 ### Work Experience
-
+<p style="text-align: justify;">
 #### Research Assistant | University of Chittagong | (2021 - Present)
 Projects under Dr. Shyamal Karmakar 
 - Hydrological modelling of Halda river for storm runoff and base flow prediction towards sustainable water management.
-- Surface runoff and base flow prediction of Meghna River using GeoMIP data.
+- Assessing the geo-engineering impacts on hydrology (Ganges, Brahmaputra, Meghna) in Bangladesh.
 
 **Responsibilites:**
 - Observe data and geospatial data collecting
@@ -33,8 +33,8 @@ Hydrological Model Creation with Soil and Water Assessment Tool (SWAT)
 
 #### Intern   |  Department of Environment (DOE)    | Chattogram
 Supervised by Mohammed Moazzam Hossain, Director (technical) and Noor Hossain Sajib, Inspector.  
-Responsibilities: data collecting in Shitakundo ship breaking field, understanding law enforcement procedures in field operations relating to environmental law and policies, evaluating Environmental Impact Assessment, and database management.
-
+**Responsibilities:** data collecting in Shitakundo ship breaking field, understanding law enforcement procedures in field operations relating to environmental law and policies, evaluating Environmental Impact Assessment, and database management.
+</p>
 
 <br />
 <br />

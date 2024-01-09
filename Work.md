@@ -5,7 +5,8 @@
 
 ### Work Experience
 <p style="text-align: justify;">
-#### Research Assistant | University of Chittagong | (2021 - Present)
+  
+#### Research Assistant | University of Chittagong | (October 2020-December 2021,July 2022-December 2023)  
 Projects under Dr. Shyamal Karmakar 
 - Hydrological modelling of Halda river for storm runoff and base flow prediction towards sustainable water management.
 - Assessing the geo-engineering impacts on hydrology (Ganges, Brahmaputra, Meghna) in Bangladesh.

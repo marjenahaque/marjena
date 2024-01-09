@@ -3,8 +3,7 @@
 <br>
 **Technical Skills:** _Python, JavaScripts(GEE), Markdown, QGIS, ArcGIS, SPSS, SNAP, HEC-HMS, HEC-RAS, SWAT, SWAT-CUP_
 
-### Work Experience
-<p style="text-align: justify;">
+### Work Experience  
   
 #### Research Assistant | University of Chittagong | (October 2020-December 2021,July 2022-December 2023)  
 Projects under Dr. Shyamal Karmakar 
@@ -33,7 +32,9 @@ Hydrological Model Creation with Soil and Water Assessment Tool (SWAT)
 - Enabled students to master the technical aspects of SWAT software, including data input, model calibration, and result interpretation, enhancing their proficiency in applying the tool effectively.
 
 #### Intern   |  Department of Environment (DOE)    | Chattogram
-Supervised by Mohammed Moazzam Hossain, Director (technical) and Noor Hossain Sajib, Inspector.  
+Supervised by Mohammed Moazzam Hossain, Director (technical) and Noor Hossain Sajib, Inspector. 
+<p style="text-align: justify;">
+  
 **Responsibilities:** data collecting in Shitakundo ship breaking field, understanding law enforcement procedures in field operations relating to environmental law and policies, evaluating Environmental Impact Assessment, and database management.
 </p>
 

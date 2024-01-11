@@ -21,6 +21,7 @@ In this project we are trying to see how three major rivers of delta region resp
   
 #### Completed Project 
 Poster Paper:  
+
 <p style="text-align: justify;">
     
 [Hydrological Modelling of Halda River For Storm Runoff and Base Flow Prediction Towards Sustainable Water Management.](https://dx.doi.org/10.13140/RG.2.2.22918.45122) 1st Jamal Nazrul Islam National Conference - 2022 (JNINC 2022) for Young Researchers, 21 May 2022. University of Chittagong.  
@@ -30,9 +31,11 @@ Poster Paper:
   
 **Manuscripts under review:**  
 <p style="text-align: justify;">
-- Discharge and sediment load modeling using rating curve-based missing data management for the Halda River Catchment of Bangladesh.  
-    </p>
-- Rainfall-Runoff modeling using HEC-HMS flow modeling framework for Halda River Catchment, Bangladesh.
+Discharge and sediment load modeling using rating curve-based missing data management for the Halda River Catchment of Bangladesh.  
+
+Rainfall-Runoff modeling using HEC-HMS flow modeling framework for Halda River Catchment, Bangladesh.  
+ 
+</p>
 
 <br />
 <br />

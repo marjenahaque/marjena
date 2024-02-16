@@ -8,7 +8,7 @@
 I am an ardent environmental scientist with a multidisciplinary focus, particularly in hydrology, river system networks, and leveraging machine learning for disaster management in Bangladesh's coastal lands and islands. My academic background includes a Master's in Environmental Science from the University of Chittagong, equipping me with a strong foundation in GIS, remote sensing, and watershed management. Engaged in diverse projects, my research spans the intricate dynamics of soil-water interactions, understanding river systems' behaviors, and innovating machine learning applications to predict and mitigate disasters in vulnerable coastal areas.  
  
  </p> 
-I like to travel and explore nature, listen podcasts, perticipate in sports and create content in YouTube.  
+I like to travel and explore nature, listen podcasts, perticipate in sports and create content on YouTube.  
 
 
 **Research Interests**

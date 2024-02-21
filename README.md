@@ -9,12 +9,18 @@ I am an ardent environmental scientist with a multidisciplinary focus, particula
  
  </p> 
 I like to travel and explore nature, listen podcasts, perticipate in sports and create content on YouTube.  
+<br />
+<br />
 
 
 **Research Interests**
-<p style="text-align: justify;">
-My research interests revolve around hydrology, investigating the interplay between soil properties and water movement to enhance land management strategies. Additionally, I'm deeply invested in studying river system networks, focusing on predictive modeling techniques to forecast runoff patterns and evaluate watershed responses to land-use changes. A key focus area of my current research involves employing machine learning methodologies to analyze precipation and surface-groundwater flow patterns and preemptively control flash floods in Bangladesh's coastal regions. My goal is to bridge scientific insights with practical applications to ensure sustainable environmental practices and climate change resilience in these vulnerable ecosystems.
-</p>  
+
+Numerical modeling of hydrologic processes on coastal land.  
+Investigating the interplay between soil properties and water movement to enhance land management strategies.  
+GIS and Remote Sensing.  
+Employing machine learning methodologies to analyze precipitation and surface-groundwater flow patterns and preemptively control flash floods.  
+
+
 <br />
 <br />
 <p align="center">

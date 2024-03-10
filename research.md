@@ -14,10 +14,10 @@ In this project we are trying to see how three major rivers of delta region resp
     <img width="200px" src="./images/Meghna_basin.png"/>
   </a>
   <a>
-    <img width="200px" src="./images/Lulcmap.png"/>
+    <img width="400px" src="./images/Lulcmap.png"/>
   </a>
    <a>
-    <img width="200px" src="./images/SOILMAP.png"/>
+    <img width="400px" src="./images/SOILMAP.png"/>
   </a>
 </p>
 #### Completed Project 

@@ -9,16 +9,17 @@ Assessing the geo-engineering impacts on hydrology (Ganges, Brahmaputra, Meghna 
 <p style="text-align: justify;">
 In this project we are trying to see how three major rivers of delta region response to GeoMIP projected climate data to assess its impact using SWAT tool. We used QGIS interface for developing model. To assess the model performance (R2, NSE, PBIAS) SWAT-CUP has been used.  
 </p>
+<p align="center">
 <a>
     <img width="200px" src="./images/Meghna_basin.png"/>
   </a>
   <a>
-    <img width="350px" src="./images/Lulcmap.png"/>
+    <img width="200px" src="./images/Lulcmap.png"/>
   </a>
    <a>
-    <img width="350px" src="./images/SOILMAP.png"/>
+    <img width="200px" src="./images/SOILMAP.png"/>
   </a>
-  
+</p>
 #### Completed Project 
 Poster Paper:  
 
@@ -32,7 +33,11 @@ Poster Paper:
 **Manuscripts under review:**  
 
 Discharge and sediment load modeling using rating curve-based missing data management for the Halda River Catchment of Bangladesh.  
-
+<p align="center">
+<a>
+    <img width="400px" src="./images/Halda_cal_val.png"/>
+  </a>
+</p>
 Rainfall-Runoff modeling using HEC-HMS flow modeling framework for Halda River Catchment, Bangladesh.  
 
 
